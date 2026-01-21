@@ -1,2 +1,15 @@
-# proxtel-trading-engine
-Núcleo backend para plataforma de trading de marca blanca. Incluye puente API para la integración de Charting Library y lógica de ejecución B-Book.
+# Proxtel Trading Engine 🚀
+
+A high-performance backend built with **Laravel 11** and **Debian 12** to manage white-label trading operations.
+
+## Key Features
+- **B-Book Simulation:** Internal order matching engine for simulated trading environments.
+- **Broker API:** Custom implementation designed for **TradingView Charting Library** integration.
+- **Multi-Tenant:** Prepared for white-label deployment on different domains.
+
+## Technical Stack
+- **Backend:** PHP 8.2+, Laravel, MySQL.
+- **Infrastructure:** Debian Linux, Nginx, Redis for real-time data caching.
+
+## Author
+**Victor Ayala** - Lead Developer at Proxtel.
